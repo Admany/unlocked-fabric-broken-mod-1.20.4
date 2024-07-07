@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tutorialmod:item/pinigai",
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "tutorialmod:item/dildosnikas"
+  }
+}
