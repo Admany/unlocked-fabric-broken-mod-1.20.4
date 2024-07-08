@@ -1,4 +1,11 @@
 {
-  "item.tutorialmod.pinigai": "Pinigai",
-  "item.tutorialmod.pinigai": "Dildosnikas"
+  "item.tutorialmod.vienas_eur": "Vienas Euras",
+  "item.tutorialmod.dildosnikas": "Dildosnikas",
+  "item.tutorialmod.aetheriumas": "Aetheriumo ingot",
+  "itemgroup.admany": "Admanys fabric modai",
+
+  "itemgroup.admany.aetheriumo_helmet": "Aetheriumo Helmet"
+  "itemgroup.admany.aetheriumo_chestplate": "Aetheriumo Chestplate"
+  "itemgroup.admany.aetheriumo_leggings": "Aetheriumo Leggings"
+  "itemgroup.admany.aetheriumo_boots": "Aetheriumo Boots"
 }
