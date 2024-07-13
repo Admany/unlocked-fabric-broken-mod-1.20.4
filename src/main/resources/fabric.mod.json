@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
-	"id": "tutorial-mod",
-	"version": "${version}",
-	"name": "Tutorial mod",
-	"description": "Tai yra testas made by Admany",
+	"id": "tutorial",
+	"version": "${1.0}",
+	"name": "LP Mod's ",
+	"description": "Mod packet made for Lapiakalnis",
 	"authors": [
 		"Admany"
 	],

@@ -13,7 +13,6 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     public static final Item VIENAS_EUR = registerItem("vienas_eur", new Item(new FabricItemSettings()));
-public static final Item DILDOSNIKAS = registerItem("dildosnikas", new Item(new FabricItemSettings()));
 public static final Item AETHERIUMAS = registerItem("aetheriumas", new Item(new FabricItemSettings()));
 
     public static final Item AETHERIUMAS_HELMET = registerItem("aetheriumo_helmet",
@@ -27,7 +26,6 @@ public static final Item AETHERIUMAS = registerItem("aetheriumas", new Item(new 
 
 private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(VIENAS_EUR);
-        entries.add(DILDOSNIKAS);
         entries.add(AETHERIUMAS);
     }
 

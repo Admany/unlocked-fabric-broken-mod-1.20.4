@@ -1,11 +1,10 @@
 {
-  "item.tutorialmod.vienas_eur": "Vienas Euras",
-  "item.tutorialmod.dildosnikas": "Dildosnikas",
-  "item.tutorialmod.aetheriumas": "Aetheriumo ingot",
   "itemgroup.admany": "Admanys fabric modai",
 
-  "itemgroup.admany.aetheriumo_helmet": "Aetheriumo Helmet"
-  "itemgroup.admany.aetheriumo_chestplate": "Aetheriumo Chestplate"
-  "itemgroup.admany.aetheriumo_leggings": "Aetheriumo Leggings"
-  "itemgroup.admany.aetheriumo_boots": "Aetheriumo Boots"
+  "item.tutorialmod.vienas_eur": "Vienas Euras",
+  "item.tutorialmod.aetheriumas": "Aetheriumo Ingot",
+  "item.tutorialmod.aetheriumo_helmet": "Aetheriumo Helmet",
+  "item.tutorialmod.aetheriumo_chestplate": "Aetheriumo Chestplate",
+  "item.tutorialmod.aetheriumo_leggings": "Aetheriumo Leggings",
+  "item.tutorialmod.aetheriumo_boots": "Aetheriumo Boots"
 }

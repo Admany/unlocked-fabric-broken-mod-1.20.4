@@ -14,8 +14,9 @@ public class ModItemGroups {
             new Identifier(TutorialMod.MOD_ID, "admany"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.admany"))
                     .icon(() -> new ItemStack(ModItems.VIENAS_EUR)).entries((displayContext, entries) -> {
-                        entries.add(ModItems.DILDOSNIKAS);
                         entries.add(ModItems.VIENAS_EUR);
+                        entries.add(ModItems.AETHERIUMAS);
+
 
                         entries.add(ModItems.AETHERIUMAS_HELMET);
                         entries.add(ModItems.AETHERIUMAS_CHESTPLATE);
